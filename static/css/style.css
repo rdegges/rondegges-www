@@ -1,0 +1,12 @@
+table {
+  margin-top: 2em;
+}
+
+p {
+  margin-bottom: 1em;
+  text-align: justify;
+}
+
+.time-range {
+  font-style: italic;
+}
